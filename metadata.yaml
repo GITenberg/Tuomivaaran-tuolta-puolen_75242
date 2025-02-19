@@ -1,0 +1,32 @@
+_repo: Tuomivaaran-tuolta-puolen_75242
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lyy, Toivo
+    aliases:
+    - Mähönen, Toivo
+    - Mahonen, Toivo
+    - Lyy, Otto Toivo
+    birthdate: 1898
+    deathdate: 1976
+    gutenberg_agent_id: '57784'
+    url: http://www.gutenberg.org/2009/agents/57784
+    wikipedia: https://fi.wikipedia.org/wiki/Toivo_Lyy
+description: ''
+gutenberg_issued: '2025-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75242'
+language: fi
+pgterms:marc905: 20190528072954lyy
+pgterms:marc906: '1920'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aHelsinki :$bOtava, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Tuomivaaran tuolta puolen
+url: http://www.gutenberg.org/ebooks/75242
