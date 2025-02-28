@@ -1,5 +1,8 @@
 _repo: Tuomivaaran-tuolta-puolen_75242
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lyy, Toivo
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57784
     wikipedia: https://fi.wikipedia.org/wiki/Toivo_Lyy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75242#Tuomivaaran-tuolta-puolen
 gutenberg_issued: '2025-01-29'
 gutenberg_type: Text
 identifiers:
